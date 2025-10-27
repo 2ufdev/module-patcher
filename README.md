@@ -7,6 +7,10 @@ It automatically detects installed versions of **Discord**, **Discord PTB**, and
 
 ---
 
+![Preview](preview.gif)
+
+---
+
 ## ⚙️ Features
 
 * 🔍 Auto-detects Discord installations.
