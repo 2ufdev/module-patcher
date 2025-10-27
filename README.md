@@ -18,7 +18,7 @@ It automatically detects installed versions of **Discord**, **Discord PTB**, and
 
 ```
 DiscordStereoPatcher/
-├── main.cpp               # Main source code
+├── installer.cpp               # Main source code
 ├── startup_sound.h        # Embedded MP3 array (launch_mp3, launch_mp3_len)
 ├── discord_voice/         # Replacement files to inject
 └── build/                 # Optional build output
